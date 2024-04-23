@@ -2,6 +2,7 @@
 This module contains the utility functions for the calculator app.
 """
 
+
 def add(a: int, b: int) -> int:
     """
     This function adds two numbers and returns the result.
